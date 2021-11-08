@@ -24,3 +24,5 @@ https://github.com/romzzp
 https://github.com/romzzp/E-Comm-Backend
 
 ## Walkthrough Video
+
+https://watch.screencastify.com/v/Gr114yoGeK28uIeYvbzy
